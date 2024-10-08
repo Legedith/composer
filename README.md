@@ -7,6 +7,10 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
 
+
+🎥 [Video Demo](https://youtu.be/4_vXxbYrR8s)
+
+
 Piano Composer is an interactive web application that allows users to compose music using natural language commands. Leveraging the power of Magenta.js and a Flask backend, this application generates, visualizes, and plays music based on user input. Users can also repeat their compositions and download them as MIDI files for further use.
 
 ## 🚀 Features
